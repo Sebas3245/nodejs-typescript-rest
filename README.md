@@ -22,7 +22,7 @@ This endpoint returns an object with the count of anomalies, the count of no ano
 
 ## Usage
 
-To use the endpoints, send a request to the appropriate URL using an HTTP client such as Postman or cURL. The base URL for the API is ``.
+To use the endpoints, send a request to the appropriate URL using an HTTP client such as Postman or cURL. The base URL for the API is `https://nodejs-typescript-rest-drab.vercel.app/`.
 
 ## Database
 
